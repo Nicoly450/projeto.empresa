@@ -6,7 +6,7 @@
 
  Projeto de portfólio com dados fictícios da empresa Leal. O objetivo é limpar e explorar dados de vendas, responder perguntas de negócio com SQL e apresentar os resultados em um dashboard no Power BI.
 
-<img alt="Capa do dashboard" src="imagens/dahsboard.png" width="900"/>
+<img src="imagens/dashboard.png" alt="Capa do dashboard" width="900">
 
 ## Objetivos
 ```
