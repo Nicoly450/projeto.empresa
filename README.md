@@ -89,8 +89,23 @@ pd.to_numeric(df['valor'], errors='coerce') #Conversão para o formato numérico
 df.drop_duplicates(subset=['id_pedido']) # Deletar dados duplicados
 
 #Padronização de títulos de colunas:
-df.columns = df.columns.str.strip().str.title() 
+df.columns = df.columns.str.strip().str.title()
 ```
+
+## Conexão com o banco de dados para enviar os dados
+```python
+usuario = 'root'
+senha = getpass('Digite a senha do MySql: ')
+host = 'localhost'
+porta = '3306'
+nome_banco = 'limpeza'
+
+engine = create_engine(f'mysql+pymysql://{usuario}:{senha}@{host}:{porta}/{nome_banco}')
+
+df.to_sql('vendas_leal', engine, if_exists='replace', index=False)
+print('Dados inseridos com sucesso!')
+````
+
 Resultado salvo em Dados/vendas_leal_limpo.csv.
 
 ## **Query (MySQL):** 
