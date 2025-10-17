@@ -1,0 +1,51 @@
+﻿id_pedido;data;cliente;produto;canal;mercado;status;valor;regiao
+1000;2025-01-01;Rafael Lima;Óculos de Proteção;Revenda;Construção Civil;Aprovado;1719.83;Santa Catarina
+1001;2025-01-08;Fernanda Costa;Bota de Segurança;Loja Física;Mineração;Aprovado;838.79;Santa Catarina
+1002;2025-01-15;Camila Rocha;Luvas de Raspa;Loja Física;Mineração;Aprovado;1781.15;Campo Limpo - SP
+1003;2025-01-22;Lucas Pereira;Capacete de Segurança;Site;Construção Civil;Aprovado;1709.31;Santa Catarina
+1004;2025-01-29;Rafael Lima;Luvas de Raspa;Revenda;Construção Civil;Aprovado;1874.49;Campo Limpo - SP
+1005;2025-02-05;Patrícia Gomes;Capacete de Segurança;Loja Física;Construção Civil;Aprovado;1581.41;Campo Limpo - SP
+1006;2025-02-12;Maria Oliveira;Capacete de Segurança;Site;Telecomunicação;Aprovado;1354.53;Santa Catarina
+1007;2025-02-19;Rafael Lima;Luvas de Raspa;Loja Física;Construção Civil;Aprovado;1182.34;Campo Limpo - SP
+1008;2025-02-26;Camila Rocha;Colete Reflexivo;Loja Física;Telecomunicação;Aprovado;775.95;Santa Catarina
+1009;2025-03-05;Lucas Pereira;Capacete de Segurança;Revenda;Mineração;Aprovado;1883.26;Pinheiros - SP
+1010;2025-03-12;Fernanda Costa;Capacete de Segurança;Loja Física;Telecomunicação;Aprovado;1948.64;Campo Limpo - SP
+1011;2025-03-19;Camila Rocha;Luvas de Raspa;Revenda;Construção Civil;Aprovado;603.65;Pinheiros - SP
+1012;2025-03-26;Camila Rocha;Capacete de Segurança;Loja Física;Mineração;Cancelado;645.46;Santa Catarina
+1013;2025-04-02;Maria Oliveira;Capacete de Segurança;Site;Mineração;Aprovado;996.95;Pinheiros - SP
+1014;2025-04-09;Ana Souza;Luvas de Raspa;Loja Física;Mineração;Cancelado;924.43;Pinheiros - SP
+1015;2025-04-16;Lucas Pereira;Luvas de Raspa;Revenda;Telecomunicação;Aprovado;1989.19;Santa Catarina
+1016;2025-04-23;Pedro Santos;Bota de Segurança;Revenda;Construção Civil;Cancelado;393.05;Pinheiros - SP
+1017;2025-04-30;Camila Rocha;Colete Reflexivo;Site;Mineração;Cancelado;85.25;Pinheiros - SP
+1018;2025-05-07;Ana Souza;Colete Reflexivo;Loja Física;Mineração;Aprovado;1013.09;Santa Catarina
+1019;2025-05-14;Pedro Santos;Capacete de Segurança;Loja Física;Mineração;Aprovado;398.7;Pinheiros - SP
+1020;2025-05-21;Lucas Pereira;Colete Reflexivo;Site;Telecomunicação;Aprovado;764.61;Santa Catarina
+1021;2025-05-28;João Silva;Capacete de Segurança;Loja Física;Telecomunicação;Cancelado;1501.13;Pinheiros - SP
+1022;2025-06-04;Patrícia Gomes;Bota de Segurança;Loja Física;Construção Civil;Aprovado;1455.83;Santa Catarina
+1023;2025-06-11;Ana Souza;Luvas de Raspa;Revenda;Telecomunicação;Aprovado;650.72;Santa Catarina
+1024;2025-06-18;Diego Alves;Luvas de Raspa;Loja Física;Mineração;Cancelado;1107.95;Pinheiros - SP
+1025;2025-06-25;João Silva;Luvas de Raspa;Loja Física;Construção Civil;Cancelado;1042.19;Pinheiros - SP
+1026;2025-07-02;Patrícia Gomes;Colete Reflexivo;Site;Mineração;Aprovado;1290.85;Pinheiros - SP
+1027;2025-07-09;Maria Oliveira;Bota de Segurança;Site;Mineração;Aprovado;538.4;Campo Limpo - SP
+1028;2025-07-16;Rafael Lima;Colete Reflexivo;Revenda;Telecomunicação;Cancelado;1200.25;Campo Limpo - SP
+1029;2025-07-23;Fernanda Costa;Colete Reflexivo;Loja Física;Construção Civil;Aprovado;1958.84;Campo Limpo - SP
+1030;2025-07-30;Diego Alves;Bota de Segurança;Loja Física;Telecomunicação;Aprovado;999.15;Santa Catarina
+1031;2025-08-06;Maria Oliveira;Bota de Segurança;Loja Física;Telecomunicação;Cancelado;1816.89;Pinheiros - SP
+1032;2025-08-13;Lucas Pereira;Bota de Segurança;Revenda;Construção Civil;Aprovado;897.07;Santa Catarina
+1033;2025-08-20;Maria Oliveira;Bota de Segurança;Revenda;Mineração;Cancelado;732.65;Campo Limpo - SP
+1034;2025-08-27;Rafael Lima;Luvas de Raspa;Site;Mineração;Aprovado;1307.95;Pinheiros - SP
+1035;2025-09-03;Lucas Pereira;Óculos de Proteção;Revenda;Construção Civil;Aprovado;1354.4;Santa Catarina
+1036;2025-09-10;Diego Alves;Óculos de Proteção;Loja Física;Mineração;Aprovado;1735.13;Pinheiros - SP
+1037;2025-09-17;Rafael Lima;Bota de Segurança;Loja Física;Construção Civil;Aprovado;498.86;Santa Catarina
+1038;2025-09-24;Pedro Santos;Óculos de Proteção;Revenda;Construção Civil;Aprovado;1023.43;Pinheiros - SP
+1039;2025-10-01;Fernanda Costa;Óculos de Proteção;Loja Física;Telecomunicação;Cancelado;1165.41;Campo Limpo - SP
+1040;2025-10-08;Diego Alves;Bota de Segurança;Loja Física;Construção Civil;Aprovado;1548.68;Campo Limpo - SP
+1041;2025-10-15;Pedro Santos;Óculos de Proteção;Revenda;Telecomunicação;Aprovado;135.03;Pinheiros - SP
+1042;2025-10-22;Patrícia Gomes;Colete Reflexivo;Revenda;Mineração;Cancelado;1989.37;Santa Catarina
+1043;2025-10-29;Diego Alves;Capacete de Segurança;Loja Física;Mineração;Cancelado;966.39;Campo Limpo - SP
+1044;2025-11-05;Patrícia Gomes;Capacete de Segurança;Loja Física;Mineração;Aprovado;595.14;Campo Limpo - SP
+1045;2025-11-12;Lucas Pereira;Bota de Segurança;Loja Física;Mineração;Cancelado;1772.81;Campo Limpo - SP
+1046;2025-11-19;Pedro Santos;Luvas de Raspa;Site;Telecomunicação;Aprovado;1508.05;Pinheiros - SP
+1047;2025-11-26;Fernanda Costa;Bota de Segurança;Site;Mineração;Aprovado;1908.49;Pinheiros - SP
+1048;2025-12-03;Rafael Lima;Luvas de Raspa;Site;Construção Civil;Cancelado;694.96;Santa Catarina
+1049;2025-12-10;Camila Rocha;Capacete de Segurança;Revenda;Construção Civil;Cancelado;1127.89;Santa Catarina
