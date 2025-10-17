@@ -192,3 +192,18 @@ Ticket Médio: 1.179,76
 % Cancelados: 32,00%
 ```
 Valores conforme o conjunto de dados fictício desta versão.
+
+## ✅ Conclusão do Projeto
+Este repositório apresentou um fluxo completo de Análise de Vendas para dados fictícios da Leal Equipamentos de Proteção, cobrindo:
+
+ETL em Python (pandas) para limpeza e padronização.
+
+Carga no MySQL via SQLAlchemy.
+
+Consultas SQL para responder perguntas de negócio (receita total, ticket médio, receita por canal e por produto).
+
+Dashboard no Power BI com KPIs e visuais principais.
+
+## 📫 Contato
+
+Fique à vontade para abrir issues ou sugerir melhorias via pull request.
