@@ -81,16 +81,15 @@ regiao (Campo Limpo - SP, Pinheiros - SP, Santa Catarina)
 ````
 ## Limpeza aplicada (resumo)
 
-No projeto.leal.ipynb:
 ```python
-pd.to_datetime(df['data'], errors='coerce')
+pd.to_datetime(df['data'], errors='coerce') #Conversão para o formato de data
 
-pd.to_numeric(df['valor'], errors='coerce')
+pd.to_numeric(df['valor'], errors='coerce') #Conversão para o formato numérico
 
-df.drop_duplicates(subset=['id_pedido'])
+df.drop_duplicates(subset=['id_pedido']) # Deletar dados duplicados
 
 #Padronização de títulos de colunas:
-df.columns = df.columns.str.strip().str.title()
+df.columns = df.columns.str.strip().str.title() 
 ```
 Resultado salvo em Dados/vendas_leal_limpo.csv.
 
